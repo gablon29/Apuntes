@@ -7,4 +7,5 @@ El formulario se realiza en el <body>
 
 
 </form>
-stack overflow
+
+<stack overflow> (buen lugar para resolver cualquier duda acerca de solucion de codigos)
