@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-18T21:01:09.749Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="aUXJd2QuhC_xjvz-W3tV" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-18T21:04:49.134Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="glZNwYiYorxE4HG8KMuH" version="20.2.5" type="github">
   <diagram id="Tv6WiDoShTGpSTUKxkJ7" name="Página-1">
-    <mxGraphModel dx="1335" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2162" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,6 +145,12 @@
         </mxCell>
         <mxCell id="l0C9Wd7gATEz6wUp-5n3-53" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="225" y="1110" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0C9Wd7gATEz6wUp-5n3-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=20;" edge="1" parent="1" source="l0C9Wd7gATEz6wUp-5n3-54" target="l0C9Wd7gATEz6wUp-5n3-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l0C9Wd7gATEz6wUp-5n3-54" value="Si lo que hay en mi vector en la posición [i] es igual a X... Pasar a lo siguiente" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-50" y="1100" width="170" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
