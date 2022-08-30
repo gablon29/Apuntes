@@ -3,9 +3,9 @@
 primero identificamos una variable desde donde vamos a tomar los datos que se ingresan,
 por ejemplo:
 </p>
-<script>
+<h3>
     const formulario = document.querySelector('#formulario')//aqui document:hace referencia al documento del html "querySelector" es el metodo para seleccionarlo
-</script>
+</h3>
 <p>
 luego tenemos que listar las actividades que vamos a tomar como valores,<br>
 por lo que tenemos que hacer una variable con el metodo a continuacion:
